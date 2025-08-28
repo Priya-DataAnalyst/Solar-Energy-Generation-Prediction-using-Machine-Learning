@@ -15,20 +15,20 @@ this project predicts **solar energy generation** using historical weather and s
 ```
 
 notebooks/
-Decision\_Tree\_with\_Val.ipynb     # decision tree modeling
-gradient\_boosting\_model.ipynb    # gradient boosting predictions
-LinearRegression\_with\_val.ipynb  # linear regression
-Random\_forest\_with\_predictions.ipynb  # random forest predictions
-SVM\_val.ipynb                    # support vector machine model
-ML\_project\_code.ipynb            # main workflow notebook
+Decision_Tree_with_Val.ipynb # decision tree modeling
+gradient_boosting_model.ipynb # gradient boosting predictions
+LinearRegression_with_val.ipynb # linear regression
+Random_forest_with_predictions.ipynb # random forest predictions
+SVM_val.ipynb # support vector machine model
+ML_project_code.ipynb # main workflow notebook
 data/
-Solar\_Weather\_Final\_Dataset.xlsx     # raw dataset
-solar\_generation\_selected\_features.csv
+Solar_Weather_Final_Dataset.xlsx # raw dataset
+solar_generation_selected_features.csv
 visuals/
-Solar\_predictions\_Dashboard.twbx     # tableau workbook
-recommendations.csv                  # model-based recommendations
+Solar_predictions_Dashboard.twbx # tableau workbook
+recommendations.csv # model-based recommendations
 docs/
-Machine\_Learning\_Project\_Report.pdf  # full project report
+Machine_Learning_Project_Report.pdf # full project report
 
 ````
 
